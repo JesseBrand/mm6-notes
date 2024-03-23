@@ -1,0 +1,1 @@
+Savings House is a [[Banks|Bank]] located in the [[Town of New Sorpigal]].

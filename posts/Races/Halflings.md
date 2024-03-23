@@ -1,0 +1,1 @@
+Halflings are a [[Races|Race]] of short, stout humanoids hailing from [[Eeofol]] on the [[Antagarich|Continent of Antagarich]].

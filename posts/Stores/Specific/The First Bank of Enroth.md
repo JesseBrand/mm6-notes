@@ -1,0 +1,1 @@
+The First Bank of Enroth is a [[Banks|Bank]] located in the [[City of Silver Cove]].

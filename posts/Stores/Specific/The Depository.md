@@ -1,0 +1,1 @@
+The Depository is a [[Banks|Bank]] located in the [[City of Blackshire]].

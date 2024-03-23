@@ -1,0 +1,2 @@
+
+The Region of Kriegspire is a cold and forsaken region on the northern borders of the [[Kingdom of Enroth|Kingdom of Enroth]]. It lies to the north of [[Blackshire]], west of the [[Frozen Highlands]] and east of the 

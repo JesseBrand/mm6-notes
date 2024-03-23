@@ -1,0 +1,1 @@
+Steadwick is the Capital City of the [[Kingdom of Erathia]]. It is located in the center of the [[Kingdom of Erathia|Erathia]], below a cliffside.

@@ -1,0 +1,1 @@
+The Wealthy Eels are an organised criminal [[Gangs|Gang]] working out of the [[Village of Alamos]] in the [[Eel-Infested Waters]]. They stir up a lot of trouble for the village and surrounding areas.

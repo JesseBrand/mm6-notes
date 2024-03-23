@@ -1,0 +1,1 @@
+Nighon is Kingdom located on a island along the southeastern coast of the [[Antagarich|Continent of Antagarich]]. It is ruled by [[Necromancers]] and generally hostile to the other countries of [[Antagarich]], including the [[Kingdom of Erathia]] and [[Avlee]].

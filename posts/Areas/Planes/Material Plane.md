@@ -1,0 +1,1 @@
+The Material Plane is the [[Planes|Plane of Existence]] where most mortal life occurs. It is situated in the center of the Wheel of Planes. Most mortals live their entire lives without realising there are any other Planes.

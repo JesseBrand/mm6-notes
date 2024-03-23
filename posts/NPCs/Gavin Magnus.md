@@ -1,0 +1,1 @@
+Gavin Magnus is an [[Archmages|Archmage]] and the leader of the [[Country of Bracada]].

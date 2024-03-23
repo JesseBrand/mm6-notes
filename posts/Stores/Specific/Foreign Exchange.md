@@ -1,0 +1,1 @@
+The Foreign Exchange is a [[Banks|Bank]] located in the [[City of Free Haven]].

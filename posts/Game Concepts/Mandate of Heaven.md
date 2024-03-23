@@ -1,0 +1,3 @@
+_What's this Mandate, exactly? If you have to ask, you may never understand. Some call it the moral order of the universe, the opposite of the cold terror breeding up there in those abhorrent stars. To do what is right, instead of what is to your own advantage. Sounds simple, doesn't it? And yet, why do so many rulers resort to force in place of leadership?_
+
+_If a king embraces the moral order and follows it, then he is worthy to rule. If not, be has no business - no right - to sit on the throne. For he's lost the Mandate of Heaven. With monstrosities and disaster plaguing the land, people are starting to believe that [[Roland Ironfist|King Roland Ironfist]] has lost the Mandate of Heaven. Some whisper that rebellion is the only way to reclaim the favor of the gods._

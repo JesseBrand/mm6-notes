@@ -1,0 +1,1 @@
+The Reserves is a [[Banks|Bank]] located on the [[Island of Mist]].

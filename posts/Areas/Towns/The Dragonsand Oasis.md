@@ -1,0 +1,2 @@
+
+The Dragonsand Oasis is one of the few fertile spots left in [[Dragonsand]], in a relatively safe place in the southwestern part of the area. Several traders have set up here, catering to only the bravest adventurers willing to come here.

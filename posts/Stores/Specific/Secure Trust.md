@@ -1,0 +1,1 @@
+Secure Trust is a [[Banks|Bank]] located in the [[Town of Whitecap]].

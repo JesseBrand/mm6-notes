@@ -1,0 +1,1 @@
+Lawrence Aleman lives in the [[City of Free Haven]] near [[Temple Stone]]. He buys gongs for 200g to assist in the restoration of the [[Temple Stone|Temple]].

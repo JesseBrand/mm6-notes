@@ -1,0 +1,1 @@
+The Barrow Downs are a barren wasteland, located to the south of the [[Contested Lands]] and to the east of [[Country of Bracada|Bracada]]. There is little of value here, except the [[Dwarves|Dwarven]] Bastion of [[Stone City]].

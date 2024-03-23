@@ -1,0 +1,1 @@
+After the [[First Expedition to Investigate the Devils]] led by [[Lord Kilburn]] failed, [[Roland Ironfist|King Roland Ironfist]] ordered a Military Draft, drafting many citizens into military service before setting out on the [[Second Expedition to Investigate the Devils]]. Some of the recruits were taken along on the mission, while others remained behind as reserves.

@@ -1,0 +1,15 @@
+
+The available classes in existence are:
+* [[Artificers]]
+* [[Barbarians]]
+* [[Bards]]
+* [[Clerics]]
+* [[Druids]]
+* [[Fighters]]
+* [[Mages]]
+* [[Monks]]
+* [[Paladins]]
+* [[Rangers]]
+* [[Rogues]]
+* [[Sorcerers]]
+* [[Warlocks]]

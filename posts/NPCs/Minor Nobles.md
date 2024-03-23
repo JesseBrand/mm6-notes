@@ -1,0 +1,11 @@
+Minor Nobles in the [[Kingdom of Enroth]]
+* [[Agar]]
+* [[Lord Alamar]]
+* [[Lord Corlagon]]
+* [[Archibald Ironfist]]
+* [[Lord Kilburn]]
+* [[Lord Terrance]]
+* [[Sulman]]
+* [[Terrax]]
+* [[Sir Ragnar]]
+#ignore 

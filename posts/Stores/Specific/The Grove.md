@@ -1,0 +1,1 @@
+The Grove is the name of the [[Inns|Inn]] located on [[Grove Island]] north of the [[City of Silver Cove]].
