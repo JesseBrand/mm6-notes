@@ -22,4 +22,3 @@
 |Initiate Guild of the Self|Self Guild|[[Town of New Sorpigal]]|S, M, B, Spells 1-4|
 |Adept Guild of the Self|Self Guild|[[City of Silver Cove]]|S, M, B, Spells 1-8|
 
-#ignore

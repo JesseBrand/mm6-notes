@@ -9,4 +9,4 @@
 |[[Wolf's Den]]|[[City of Blackshire]]|16|
 |[[Royal Gymnasium]]|[[Castle Ironfist]]|18|
 |[[The Sparring Ground]]|[[Town of Edenbrook]]|20|
-#ignore
+

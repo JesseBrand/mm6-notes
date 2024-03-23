@@ -11,4 +11,3 @@
 |[[Protection Services]]|[[City of Silver Cove]]|Leather, Diplomacy, Identify, Perception, Disarm Trap|
 |[[Smugglers' Guild]]|[[City of Blackshire]]|Leather, Diplomacy, Identify, Perception, Disarm Trap|
 
-#ignore

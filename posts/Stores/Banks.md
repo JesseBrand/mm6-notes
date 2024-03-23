@@ -6,4 +6,3 @@
 |[[Secure Trust]]|[[Town of Whitecap]]|
 |[[The Depository]]|[[City of Blackshire]]|
 
-#ignore

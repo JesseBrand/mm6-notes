@@ -13,4 +13,3 @@
 |[[Little Charms]]|[[Village of Alamos]]|L4 Misc All|L5 Misc All|
 |[[Mighty Magicks]]|[[Town of Edenbrook]]|L5 Misc All|L5 Misc All
 
-#ignore

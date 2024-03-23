@@ -9,4 +9,3 @@
 |[[King's Highway]]|[[Village of Kriegspire]]|Riding Horses|[[City of Free Haven]], Wed, Sat (3 days)|
 |[[Blackshire Coach and Buggy]]|[[City of Blackshire]]|Draft, Riding & War Horses|[[City of Free Haven]], Tue, Fri (3 days)|
 
-#ignore

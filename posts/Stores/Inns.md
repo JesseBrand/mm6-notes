@@ -21,4 +21,3 @@
 |[[The Broken Promise]]|[[Village of Kriegspire]]|20|79|40|
 |[[The Last Chance]]|[[Paradise Valley]]|40|639|160|
 
-#ignore

@@ -28,4 +28,3 @@
 * [[Castle Stone]]
 * [[Castle Stromgard]]
 
-#ignore

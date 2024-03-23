@@ -4,4 +4,3 @@ Towns with town halls:
 * [[Island of Mist]]
 * [[City of Silver Cove]]
 
-#ignore

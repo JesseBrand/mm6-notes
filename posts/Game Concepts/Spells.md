@@ -11,4 +11,4 @@ Magical Spells are found in all shapes and sizes. Many [[Classes]] have access t
 * [[Power Cure]]
 
 #TODO 
-#ignore 
+ 

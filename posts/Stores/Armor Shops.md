@@ -14,4 +14,3 @@
 |[[Silver Lining Armor & Shield]]|[[Town of Whitecap]]|Shields|
 |[[The Enchanted Hauberk]]|[[Town of Edenbrook]]|Heavy Armor|
 
-#ignore

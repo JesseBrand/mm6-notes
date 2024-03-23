@@ -5,4 +5,3 @@
 |[[Abdul's Discount Goods]]|[[City of Free Haven]]|L1 Items, Bottles, Herbs|
 |[[General Store]]|[[Town of Whitecap]]|L1 Items, Bottles, Herbs|
 |[[Outland Trading Post]]|[[City of Blackshire]]|L1 Items, Bottles, Herbs|
-#ignore

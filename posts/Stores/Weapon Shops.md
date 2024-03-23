@@ -14,4 +14,3 @@
 |[[Stout Heart Staff and Spear]]|[[City of Blackshire]]|Polearms|
 |[[Knight's Paradise]]|[[Village of Kriegspire]]|Blunt Weapons, Axes|
 
-#ignore

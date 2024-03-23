@@ -3,4 +3,4 @@ Strange Obelisks are located throughout the regions of [[Continent of Enroth|Enr
 
 
 
-#ignore 
+ 

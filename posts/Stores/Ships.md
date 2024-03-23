@@ -11,4 +11,3 @@
 |[[Tsunami]]|[[Village of Pontsbury]]|[[Sun Island]], Mon, Wed (1 days)|
 |[[Valkyrie]]|[[Sun Island]]|[[Castle Ironfist\|Ironfist Village]], Tue, Thu (4 days)|
 
-#ignore

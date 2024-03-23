@@ -78,4 +78,4 @@
 ||75|[[Quotes#Noble\|Noble]]|
 ||76|[[Quotes#Gambler\|Gambler]]|
 |X|77|[[Quotes#Child\|Child]]|
-#ignore 
+ 

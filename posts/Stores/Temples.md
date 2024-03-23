@@ -15,4 +15,3 @@
 |[[Temple of Baa]]|[[Blackshire Region]]|No Dead, Stone, Erad|
 |[[Temple Stone]]|[[City of Free Haven]]|Need to restore the temple first|
 
-#ignore
