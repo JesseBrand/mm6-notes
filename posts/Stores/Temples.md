@@ -1,17 +1,19 @@
-|
-|[[New Sorpigal Temple]]|[[Town of New Sorpigal]]|No Erad|
-|[[Blackshire Temple]]|[[City of Blackshire]]|No Erad|
-|[[Abdul's Discount House of Worship]]|[[Village of Alamos]]|No Erad|
-|[[Whitecap Temple]]|[[Town of Whitecap]]|No Erad|
-|[[Mist Island Temple]]|[[Island of Mist]]|No Erad|
-|[[Silver Cove Temple]]|[[City of Silver Cove]]|No Erad|
-|[[King's Temple]]|[[Castle Ironfist]]|No Erad|
-|[[House of Healing]]|[[Village of Harecksburg]]|No Erad|
-|[[Temple of Baa]]|[[Sun Island]]|No Dead, Stone, Erad|
-|[[Temple of Baa]]|[[Ironfist Region]]|No Dead, Stone, Erad|
-|[[Temple of Baa]]|[[Free Haven Region]]|No Dead, Stone, Erad|
-|[[Temple of Baa]]|[[Darkmoor Region]]|No Dead, Stone, Erad|
-|[[Temple of Baa]]|[[Paradise Valley]]|No Dead, Stone, Erad|
-|[[Temple of Baa]]|[[Blackshire Region]]|No Dead, Stone, Erad|
-|[[Temple Stone]]|[[City of Free Haven]]|Need to restore the temple first|
+ |
+| [[New Sorpigal Temple]] | [[Town of New Sorpigal]] |
+| [[Blackshire Temple]] | [[City of Blackshire]] |
+| [[Abdul's Discount House of Worship]] | [[Village of Alamos]] |
+| [[Whitecap Temple]] | [[Town of Whitecap]] |
+| [[Mist Island Temple]] | [[Island of Mist]] |
+| [[Silver Cove Temple]] | [[City of Silver Cove]] |
+| [[King's Temple]] | [[Castle Ironfist]] |
+| [[House of Healing]] | [[Village of Harecksburg]] |
+| [[Temple of Baa]] | [[Sun Island]] |
+| [[Temple of Baa]] | [[Ironfist Region]] |
+| [[Temple of Baa]] | [[Free Haven Region]] |
+| [[Temple of Baa]] | [[Darkmoor Region]] |
+| [[Temple of Baa]] | [[Paradise Valley]] |
+| [[Temple of Baa]] | [[Blackshire Region]] |
+| [[Temple Stone]] | [[City of Free Haven]] |
+
+
 
