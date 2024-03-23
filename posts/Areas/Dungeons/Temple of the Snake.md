@@ -5,7 +5,7 @@ The Temple of the Snake is located on Star Island in the [[Blackshire Region|Reg
 It is surrounded by stone statues.
 
 The [[Medusas]] are manipulating [[Cairndrath]], driving him mad and using him to keep [[Q]] locked inside on behalf of the [[Kreegan]].
-#TODO 
+ 
 ## Creatures
 * [[Medusas]]
 ## NPCs

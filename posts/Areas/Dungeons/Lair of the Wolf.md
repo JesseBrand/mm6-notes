@@ -1,7 +1,7 @@
 A cave recently opened up in the mountainside to the south of the [[City of Blackshire]]. Ever since, a terrible curse has taken hold of the [[City of Blackshire|City]].
 
 #startsecret 
-#TODO: About Lycantrophy
+: About Lycantrophy
 
 ## Creatuers
 * [[Silver Helm Swordsmen]]

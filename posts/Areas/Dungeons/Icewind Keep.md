@@ -2,5 +2,5 @@ Icewind Keep is a grand Keep guarding [[Icewind Pass]], a Mountain Pass in the [
 
 The Villagers of [[Town of Whitecap|Whitecap]] are severely troubled by the fall of the Keep. If no caravans can pass through the [[Icewind Pass|Pass]], the [[Town of Whitecap|Town]] is surely doomed.
 
-#TODO 
+ 
 

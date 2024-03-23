@@ -10,5 +10,5 @@ Magical Spells are found in all shapes and sizes. Many [[Classes]] have access t
 * [[Healing Touch]]
 * [[Power Cure]]
 
-#TODO 
+ 
  

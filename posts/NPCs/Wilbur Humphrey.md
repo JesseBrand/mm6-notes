@@ -4,4 +4,4 @@
 He is responsible for [[Promotion Quests|Promoting]] [[Paladins]] to [[Crusaders]], then to [[Heroes]].
 
 
-#TODO
+

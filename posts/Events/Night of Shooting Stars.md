@@ -2,5 +2,5 @@ The Night of Shooting Stars was a major event on the [[Enroth (World)|World of E
 
 Soon after, troubles started spreading throughout the [[Kingdom of Enroth|Kingdom]]. Foul creatures left their hiding places, crops failed and travel became far more dangerous.
 
-#TODO: when?
+: when?
 

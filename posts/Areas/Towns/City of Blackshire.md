@@ -1,6 +1,6 @@
 
 Blackshire is the main [[Towns of Enroth|City]] in [[Blackshire Region]].
-#TODO: about [[Werewolves]]
+: about [[Werewolves]]
 ## Points of Interest
 * [[Blackshire Coach and Buggy]] ([[Stables]])
 * [[Outland Trading Post]] ([[General Stores|General Store]])

@@ -6,7 +6,6 @@ The Fraternal Order of Silver, also known as the Silver Helms, is an [[Orders|Or
 * [[Gerrard Blackames]]
 * [[Melody Silver]]
 * [[Bjorn Silver]]
-
 ## Associates
 * [[Lisa Silver]]
 * [[Kanin -Tapper- Silver|Kanin "Tapper" Silver]]

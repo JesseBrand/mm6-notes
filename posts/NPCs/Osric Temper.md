@@ -4,5 +4,4 @@
 Lord Temper is a Commander in the [[Royal Army]] and oversees many military matters. He is one of [[Roland Ironfist|King Roland Ironfist]]'s most trusted generals.
 
 Lord Temper is also responsible for [[Promotion Quests|Promoting]] [[Fighters]] to [[Knights]] and [[Knights]] to [[Champions]].
-#TODO
 
