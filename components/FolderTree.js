@@ -40,15 +40,12 @@ export default function FolderTree (props) {
               const currentNode = flattenNodes.find(aNode => {
                 return aNode.id === nodIds
               })
-              if (nodIds === 'progression_id') {
-                router.push('/progression')
-              } else if (currentNode != null && currentNode.routePath != null) {
+              if (currentNode != null && currentNode.routePath != null) {
                 router.push(currentNode.routePath)
               }
             }}
             sx={{ flexGrow: 1, maxWidth: 400, overflowY: 'auto' }}
         >
-            <TCTreeItem key={'progression_key'} nodeId={'progression_id'} label={'Progression'} />
             {renderTree(props.tree)}
 
         </TreeView>
