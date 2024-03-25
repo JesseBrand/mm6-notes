@@ -12,7 +12,7 @@ This page will list all rules maintained for the campaign.
 * Encumbrance: yes, but in broad lines. No need to maintain exact weight lists. However, the DM may rule that a character is encumbered or heavily encumbered if it carries too much. This is especially relevant for mounts that may not be able to carry fully armored characters and their loot. The use of coaches and wagons is encouraged.
 * Equipment size: yes, but limited. Smiths will be able to help here
 * Cover: yes, including potentially destroying cover
-* Inspiration: yes, regularly
+* Inspiration: no, Hero Points are used instead
 * Multiclassing: yes
 * Skills with Different Abilities: yes
 ### DMG
@@ -27,13 +27,14 @@ This page will list all rules maintained for the campaign.
 * Cleaving: no, but possibly debatable
 * Firearms, explosives, alien technology: no starting skills. Introduction left at the discretion of the DM
 * Fear and Horror: potentially limited, but most likely no
-* Healer's Kit Dependency: potentially, discuss in [[Session 0]]
+* Healer's Kit Dependency: no
 * Healing Surges: no
-* Hero Point: potentially
+* Hero Point: yes
 * Honour: no
 * Initiative Variants: no
+	* One variant to play around with is to have two creatures with the same initiative act simultaneously.
 * Injuries: yes, but limited. DMs discretion. Options for handling these will be available
-* Milestone Experience: yes, paced and balanced by DM, to be discussed in [[Session 0]]
+* Milestone Experience: yes, paced and balanced by DM
 * Loyalty: yes, for NPC hirelings, in limited form
 * Massive Damage: no
 * Mixing Potions: yes, the Might & Magic setting heavily includes alchemy & potions, so this may work very well
@@ -41,17 +42,17 @@ This page will list all rules maintained for the campaign.
 * More Difficult Item Identification: yes, you need the Identify spell to identify an item. Taking an item will not work. [[Stores|Shopkeepers]] can also identify items for a price.
 * Players Award Inspiration: no
 * Piety: no
-* Planar Effects: Potentially, DMs discretion
+* Planar Effects: At DMs discretion
 * Plot Points: no, but the DM takes the backgrounds and experiences of the characters into account while shaping the world. Players are encouraged to provide a rich background, and contact the DM between sessions on specific character hooks.
 * Proficiency Check Variants: no
 * Proficiency Dice: no, while interesting, this would slow down the game too much
 * Renown: yes, in a sense
 * Rest Variants: no, 1 hour for short rest, 8 hours for long rest (exceptions apply)
-* Madness: yes
+* Madness: yes, DMs discretion
 * Sanity: no
-* Scroll Mishaps: potentially, discuss in [[Session 0]]
-* Slow Natural Healing: potentially, discuss in [[Session 0]]
-* Training to Gain Levels: potentially, discuss in [[Session 0]]
+* Scroll Mishaps: potentially
+* Slow Natural Healing: yes
+* Training to Gain Levels: yes
 ## Table (Homebrew) Rules
 * Potions can be used using the item action / interaction when drank by the character itself.
-* Uncertain: All [[Classes]] can use [[Spell Scrolls]], discuss in [[Session 0]], combined with Mishaps
+* All [[Classes]] can use [[Spell Scrolls]], potentially combined with Mishaps
